@@ -1,2 +1,2 @@
 # Dolly
-Livestock App
+MySQL_training
